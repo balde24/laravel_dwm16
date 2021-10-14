@@ -1,8 +1,8 @@
 @extends('layouts.base')
+@section('css', 'welcome')
 
 @section('title', 'Accueil')
-@section('css', 'welcome.css')
 
 @section('content')
-<h1>Accueil</h1>
+<img src="{{ asset('/img/library.png') }}" alt="">
 @endsection
