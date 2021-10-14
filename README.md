@@ -102,3 +102,26 @@ Cette table comprend :
 - publication_year (int)
 - genre (string)
 - synopsis (string)
+
+## Exo 3 : seeder
+Utliser les seeders pour intégrer 3 livres dans la base de donnée.
+
+## Exo 4 : CRUD - Read
+Nous allons maintenant essayé d'afficher la liste de tous les livres dans une nouvelle vue.
+Ainsi, nous allons devoir créer :
+- 1 Model
+- 1 vue
+- 1 route
+- 1 nouveau controller pour gérer nos livres
+- Mettre à jour notre menu de navigation
+
+## Exo 5 : CRUD - Create
+Ainsi, pour accéder à un formulaire, nous allons devoir créer :
+- 1 vue
+- 1 route
+- 1 méthode dans le controller
+- Mettre à jour notre menu de navigation
+
+Enregistrer le nouveau livre :
+- 1 route
+- 1 méthode dans le controller
